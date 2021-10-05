@@ -1,4 +1,4 @@
-package application.respositories;
+package application.repositories;
 import org.springframework.data.repository.CrudRepository;   //CRUD - Criar, Ler, Atualizar e Deletar 
 
 import application.models.Livro;
