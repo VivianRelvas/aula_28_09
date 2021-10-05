@@ -14,7 +14,7 @@ public class LivroController {
     @RequestMapping("/list")
     public String list(Model model){
         model.addAttribute("livros",livrosRepo.findAll());
-        return "list.jsp";
+        return "livro/list.jsp";
 
     }
   

@@ -7,6 +7,6 @@
         <link href="css/default.css" rel="stylesheet" />
     </head>
     <body>
-        <h1>Bem-Vindo ao Mundo do Big Data! Vivian Relvas!!!</h1>
+        <h1>Bem-Vindo ao Big Data! Vivian Relvas!!!</h1>
     </body>
 </html>
